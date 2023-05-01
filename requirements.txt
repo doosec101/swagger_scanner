@@ -1,4 +1,3 @@
 httpx
 termcolor
 bs4
-optparse
